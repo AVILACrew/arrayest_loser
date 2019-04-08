@@ -1,5 +1,5 @@
 <?php
-    $mentors = [
+    $mentors = array(
         'Joana Beja' => 'joana.jpg',
         'Henrique Silva' => 'henrique.jpg',
         'Vasco Silva' => 'vasco.jpg',
@@ -15,5 +15,5 @@
         'Carlos Santos' => 'carlos.jpg',
         'Gonçalo Ribeiro'  => 'goncalo.jpg',
         'Joel Seabra'  => 'joel.jpg'
-    ];
+    );
 ?>

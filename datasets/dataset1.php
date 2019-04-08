@@ -1,5 +1,5 @@
 <?php
-    $mentors = [
+    $mentors = array(
         'Joana Beja',
         'Henrique Silva',
         'Vasco Silva',
@@ -16,4 +16,5 @@
         'Gonçalo Ribeiro',
         'Joel Seabra',
         'Inês Mendes'
-    ];
+    );
+?>
