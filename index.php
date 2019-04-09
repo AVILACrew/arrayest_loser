@@ -11,18 +11,18 @@
 
     <section>
         <!-- EX 1 -->
-        <?php include 'phases/phase1.php' ?>
+        <?php include 'exercises/exercise1.php' ?>
 
         <!-- EX 2 -->
-        <?php include 'phases/phase2.php' ?>
+        <?php include 'exercises/exercise2.php' ?>
 
         <!-- EX 3 (PÁGINA DETAIL) -->
 
         <!-- EX 4 -->
-        <?php include 'phases/phase4.php' ?>
+        <?php include 'exercises/exercise4.php' ?>
        
         <!-- EX 5 -->
-        <?php include 'phases/phase5.php' ?>
+        <?php include 'exercises/exercise5.php' ?>
 
 </body>
 
